@@ -19,7 +19,7 @@
                     <RadioButton android:text="@string/radioneg5" android:layout_height="wrap_content" android:id="@+id/teamaradioneg5" android:layout_width="wrap_content"></RadioButton>
                 </RadioGroup>
             </TableRow>
-            <Spinner android:prompt="@string/selectplayer" android:layout_height="wrap_content" android:gravity="center_horizontal" android:spinnerMode="dialog" android:layout_width="80dip" android:id="@+id/teamaplayerspinner"></Spinner>
+            <Spinner android:prompt="@string/selectplayer" android:layout_height="wrap_content" android:gravity="center_horizontal" android:layout_width="80dip" android:id="@+id/teamaplayerspinner"></Spinner>
         </TableLayout>
         <TableLayout android:id="@+id/tableLayout2" android:layout_height="wrap_content" android:gravity="center_horizontal" android:layout_width="150dip">
             <TableRow android:layout_height="wrap_content" android:id="@+id/tableRow5" android:layout_width="wrap_content" android:gravity="center_vertical|center_horizontal">
